@@ -56,8 +56,8 @@ aside {
   padding: 1em;
 }
 
-body {
-  font-family: 'Open Sans', sans-serif;
+body {  
+    font-family: 'Open Sans', sans-serif;
 }
 
 p {
@@ -72,7 +72,7 @@ img {
 
 h1, h2, h3, h4 {
   margin-top: 0;
-  font-family: 'Work Sans', sans-serif;
+  font-family: 'Prata', serif;
 }
 
 h4 {
@@ -90,7 +90,7 @@ h1 {
 }
 
 #masthead {
-  border-bottom: 1px solid #dddddd;
+  border-bottom: 1px solid #93CCB9;
   text-align: right;
 }
 
@@ -100,7 +100,7 @@ h1 {
 }
 
 header {
-  border-bottom: 3px solid #000;
+  border-bottom: 3px solid #93CCB9;
   margin-bottom: 1em;
 }
 
@@ -114,12 +114,12 @@ footer {
 }
 
 p.footer {
-    color: #bbbbbb;
+    color: #93CCB9;
     font-size: 11px;
   }
 
 .item {
-  border-bottom: 1px solid #dddddd;
+  border-bottom: 1px solid #93CCB9;
   margin-bottom: 2em;
   padding-bottom: 2em;
 }
@@ -141,7 +141,7 @@ p.footer {
 }
 
 .bio h3 {
-  border-top: 1px solid #dddddd;
+  border-top: 1px solid #93CCB9;
   margin-top: 1em;
   padding-top: 1em;
 }
@@ -169,7 +169,7 @@ a:hover {
 
   .bio {
     padding-bottom: 2em;
-    border-bottom: 3px solid #000;
+    border-bottom: 3px solid #93CCB9;
   }
 
   .item h2 {
