@@ -69,6 +69,14 @@ img {
   width: 100%;
   height: auto;
 }
+img.icon { max-width: auto
+ }
+
+@media (max-width: 700px)
+
+img.icon {
+
+}
 
 h1, h2, h3, h4 {
   margin-top: 0;
